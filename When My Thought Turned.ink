@@ -6,26 +6,28 @@
 === OPENNING 
 
 = DAYLIST 
-+ {DAY01}[思之转]
+//{DAY01}
++ [思之转]
 -> Title
 + 2020年10月27日 
 -> DAY01
-//
-+ {DAY01}2020年10月28日
+//{DAY01}
++ 2020年10月28日
 -> DAY02
-//
-+ {DAY02}2020年10月29日
+//{DAY02}
++ 2020年10月29日
 -> DAY03
-//
-+ {DAY03}2020年10月30日
+//{DAY03}
++ 2020年10月30日
 -> DAY04
-//
-+ {DAY04}2020年10月31日
+//{DAY04}
++ 2020年10月31日
 -> DAY05
-//
-+ {DAY05}2020年10月32日
+//{DAY05}
++ 2020年10月32日
 -> DAY06
-+ {DAY06}[终]
+//{DAY06}
++ [终]
 -> FIN
 //-> END
 
@@ -275,6 +277,8 @@
 -
 我把泔水的事和她仔细的说了
 她又耐心的听完了，还在笑
++ [👇]
+-
 笑得就象一只苹果，皱掉了皮
 + [👇] # CLEAR
 ->DAYLIST
@@ -327,7 +331,7 @@
 内容越来越负面
 + [👇]
 -
-就觉得很 <>
+就觉得很
 + 不对劲
 + 不爽
 -
@@ -380,6 +384,8 @@
 + [👇]
 -
 我迫不及待的想和她分享
++ [👇]
+-
 分享昨天有趣的，关于吐痰的看法转变
 + 我鼓起勇气<>
 走上前去
@@ -400,6 +406,7 @@
 
 = Title
 When Does My Thought Turn?
+什么时候我的想法会改变？
 + [👇?] # CLEAR
 -
 ->DAYLIST
@@ -407,6 +414,10 @@ When Does My Thought Turn?
 = FIN
 「 The whole problem of the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. 」
           —— Bertrand Russell
++ [👇]
+-
+「世界全部的问题就是傻瓜疯子总那么自信，而智者满是疑虑。」
+——伯特兰·罗素
 + [👇?] # CLEAR
 -
 ->DAYLIST
